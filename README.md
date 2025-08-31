@@ -18,7 +18,7 @@
 ## 설치 방법
 별도 설치 없이 **서비스 주소로 접속**하면 됩니다.
 
-- 베타: <https://beta.jangmadang.site>
+- 배포 주소 : <https://beta.jangmadang.site>
 
 ---
 
